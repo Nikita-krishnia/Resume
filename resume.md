@@ -1,6 +1,6 @@
 # NIKITA [Your Last Name]
 
-📍 India | ✉️ [your.email@example.com] | 📞 [your number] | 💼 LinkedIn: [your link]
+📍 India | ✉️ [nikitakrishnia08@gmail.com] | 📞 [8005581351] 
 
 ## Career Objective
 
