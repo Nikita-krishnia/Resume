@@ -1,6 +1,6 @@
 # NIKITA [Your Last Name]
 
-📍 India | ✉️ [nikitakrishnia08@gmail.com] | 📞 [8005581351] 
+📍 India | ✉️ nikitakrishnia08@gmail.com | 📞 8005581351
 
 ## Career Objective
 
@@ -10,18 +10,16 @@ Motivated and detail-oriented student with strong analytical and technical skill
 
 **Bachelor of Technology (B.Tech)**  
 Indian Institute of Information Technology (IIITT)  
-Expected Graduation: [Year]
+Expected Graduation: [2027]
 
-**Relevant Coursework:** Microeconomics, Production & Cost Analysis, Market Structures, Pricing Strategies, Operating Systems, SQL, and Data Science Fundamentals.
+**Relevant Coursework:**  Data Structures, Object Oriented Programming, Database Management Systems, Operating Systems, SQL, and Data Science Fundamentals.
 
 ## Technical Skills
 
-- **Programming:** C++, Python, SQL  
+- **Programming:** C++, Python, SQL
 - **Database Management:** SQL*Plus, Oracle, MySQL  
 - **Data Analysis:** Pandas, NumPy, Linear Regression (basic ML)  
-- **Operating Systems:** Concepts from Operating System Concepts – 10th Edition (Silberschatz, Galvin & Gagne)  
 - **Tools:** Jupyter Notebook, VS Code  
-- **Others:** Break-even analysis, EOQ problem solving, elasticity of demand, HR forecasting methods
 
 ## Academic Projects
 
@@ -39,10 +37,10 @@ Expected Graduation: [Year]
 
 ## Key Academic Interests
 
-- Production & Cost Analysis  
-- Market Structures and Pricing  
-- Elasticity of Demand  
-- HR Forecasting and Inventory Control  
+- Machine Learning
+- Artificial Intelligence
+- Software Development
+- Web Development
 - Cryptography and Computer Security
 
 ## Strengths
